@@ -94,11 +94,17 @@ body {
 
 }
 
-form {
-    color: #0dc9d6;
-    padding: 120px;
-    text-align: center;
-    box-sizing: border-box;
+.form-1 input {
+    font-size: 30px;
+    color: #000;
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    background: #ecefec;
+    border-radius: 5px;
+    margin-left: 560px;
+
+
 }
 
 .donate-2 {
@@ -160,4 +166,42 @@ form {
 
 .img-div {
     margin-left: 120px;
+}
+
+button {
+    background-color: red;
+    color: #FAFDFA;
+}
+
+
+.form-2 input {
+    font-size: 20px;
+    color: #000;
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    background: #ecefec;
+    border-radius: 5px;
+    margin-left: 555px;
+}
+
+.form-2 button {
+    color: #fff;
+    margin: -4px;
+    padding: 15px 20px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background: rgb(203, 23, 23);
+    cursor: pointer;
+    transition: .3s;
+}
+
+footer {
+    background-color: #17AEB8;
+    text-align: center;
+}
+
+footer h3 {
+    color: red;
 }

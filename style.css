@@ -35,7 +35,7 @@ body {
 
 .donate {
     text-decoration: none;
-    background-image: linear-gradient(#0F6971, #17AEB8);
+    background-image: linear-gradient(#d26709c9, #b8a517);
     margin: 510px;
     padding: 10px 40px;
     border-radius: 5px;
@@ -71,7 +71,7 @@ body {
 
 .patti {
     display: flex;
-    margin-right: 20px;
+    margin-right: 120px;
 
 }
 
@@ -103,10 +103,61 @@ form {
 
 .donate-2 {
     text-decoration: none;
-    background-image: linear-gradient(#0F6971, #17AEB8);
-    margin: 650px;
+    background-image: linear-gradient(#d26709c9, #b8a517);
+    margin-left: 665px;
     padding: 10px 40px;
     border-radius: 5px;
     color: #FAFDFA;
     border-color: #FAFDFA 10px;
+}
+
+.need-things {
+    text-align: center;
+    display: flex;
+    color: #FAFDFA;
+    padding: 120px;
+    border-radius: 3px;
+    border-color: #17AEB8;
+}
+
+.first-class {
+    box-shadow: 1px 1px 1px 1px #0dc9d6;
+    padding: 20px;
+}
+
+.third-header {
+    text-align: left;
+    font-weight: 900;
+    font-size: 40px;
+    color: #FAFDFA;
+    text-shadow: 3px 3px 3px #1f2121;
+    border-radius: 10px;
+    margin-left: 120px;
+
+}
+
+.third-h3 {
+    color: #FAFDFA;
+    text-align: left;
+    margin-left: 120px;
+
+}
+
+.donate-3 {
+    text-decoration: none;
+    background-image: linear-gradient(#d26709c9, #b8a517);
+    margin-left: 120px;
+    margin-top: 20px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: #FAFDFA;
+    border-color: #FAFDFA 10px;
+}
+
+.donation-pic {
+    display: flex;
+}
+
+.img-div {
+    margin-left: 120px;
 }

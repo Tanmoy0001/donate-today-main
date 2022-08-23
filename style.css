@@ -24,7 +24,7 @@ body {
     border-radius: 10px;
 }
 
-h3 {
+.first-h3 {
     text-align: center;
     color: #FAFDFA;
     font-size: 18px;
@@ -43,7 +43,7 @@ h3 {
     border-color: #FAFDFA 10px;
 }
 
-section {
+.section-1 {
     margin: -5px;
     padding: -5px;
     background-image: url(images/Untitled-1-01.png);
@@ -51,4 +51,62 @@ section {
     background-repeat: no-repeat;
     background-size: 150%;
     height: 100vh;
+}
+
+.second-header {
+    text-align: center;
+    font-weight: 900;
+    font-size: 40px;
+    color: #FAFDFA;
+    text-shadow: 3px 3px 3px #1f2121;
+    border-radius: 10px;
+    margin-top: 7%;
+}
+
+.second-h3 {
+    color: #FAFDFA;
+    text-align: center;
+
+}
+
+.patti {
+    display: flex;
+    margin-right: 20px;
+
+}
+
+.money {
+    color: #FAFDFA;
+    padding: 120px;
+    border-radius: 3px;
+    border-color: #17AEB8;
+    box-shadow: 2px 2px 2px 2px #1f2121;
+
+}
+
+.honey {
+    color: #FAFDFA;
+    padding: 120px;
+    border-radius: 5px;
+    border-color: #17AEB8;
+    box-shadow: 5px 5px 5px 5px #16d916;
+    background-color: #0dc9d6;
+
+}
+
+form {
+    color: #0dc9d6;
+    padding: 120px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.donate-2 {
+    text-decoration: none;
+    background-image: linear-gradient(#0F6971, #17AEB8);
+    margin: 650px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: #FAFDFA;
+    border-color: #FAFDFA 10px;
 }
